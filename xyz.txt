@@ -8,3 +8,6 @@ cheking wheter changinh the user.name will reflect in push and commit
 ------------------------
 
 we also had tested git pull now 
+--------------
+git pull compelte
+
